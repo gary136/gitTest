@@ -1,2 +1,2 @@
 edit content in master
-add something of same position where the remote has made modification
+add something new in remote environment
